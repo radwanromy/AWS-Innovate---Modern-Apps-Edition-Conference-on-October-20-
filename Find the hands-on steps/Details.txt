@@ -1,0 +1,1 @@
+https://aws.amazon.com/getting-started/hands-on/?nc2=h_ql_le_gs_t&getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all
